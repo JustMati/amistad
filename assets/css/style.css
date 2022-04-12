@@ -10,4 +10,15 @@ h1{
     font-family: 'Poppins', sans-serif;
     text-align: center;
     margin-top: 20px;
+    padding: 10px;
+}
+.image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+img{
+    width: 250px;
+    height: 250px;
 }
